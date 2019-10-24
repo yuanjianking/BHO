@@ -1,0 +1,11 @@
+D:\source\repos\BHO\BHO\BHO\bin\Debug\BHO.dll
+D:\source\repos\BHO\BHO\BHO\bin\Debug\BHO.pdb
+D:\source\repos\BHO\BHO\BHO\obj\Debug\BHO.csprojAssemblyReference.cache
+D:\source\repos\BHO\BHO\BHO\obj\Debug\Interop.MSHTML.dll
+D:\source\repos\BHO\BHO\BHO\obj\Debug\Interop.SHDocVw.dll
+D:\source\repos\BHO\BHO\BHO\obj\Debug\BHO.csproj.ResolveComReference.cache
+D:\source\repos\BHO\BHO\BHO\obj\Debug\BHO.Form1.resources
+D:\source\repos\BHO\BHO\BHO\obj\Debug\BHO.csproj.GenerateResource.cache
+D:\source\repos\BHO\BHO\BHO\obj\Debug\BHO.csproj.CoreCompileInputs.cache
+D:\source\repos\BHO\BHO\BHO\obj\Debug\BHO.dll
+D:\source\repos\BHO\BHO\BHO\obj\Debug\BHO.pdb

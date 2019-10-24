@@ -1,0 +1,10 @@
+D:\source\repos\BHO\BHO\BHO\bin\Release\BHO.dll
+D:\source\repos\BHO\BHO\BHO\bin\Release\BHO.pdb
+D:\source\repos\BHO\BHO\BHO\obj\Release\Interop.MSHTML.dll
+D:\source\repos\BHO\BHO\BHO\obj\Release\Interop.SHDocVw.dll
+D:\source\repos\BHO\BHO\BHO\obj\Release\BHODemo.csproj.ResolveComReference.cache
+D:\source\repos\BHO\BHO\BHO\obj\Release\BHO.Form1.resources
+D:\source\repos\BHO\BHO\BHO\obj\Release\BHODemo.csproj.GenerateResource.cache
+D:\source\repos\BHO\BHO\BHO\obj\Release\BHODemo.csproj.CoreCompileInputs.cache
+D:\source\repos\BHO\BHO\BHO\obj\Release\BHO.dll
+D:\source\repos\BHO\BHO\BHO\obj\Release\BHO.pdb
